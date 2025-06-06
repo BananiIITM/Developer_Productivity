@@ -65,3 +65,7 @@ Uncover how AI transforms developer performance with this complete data storytel
    ```bash
    git clone https://github.com/BananiIITM/Projects.git
    cd Projects/Developer-Productivity-AI
+   ## 📸 Dashboard Preview
+
+![Developer Productivity Dashboard](./Productivity (Ai vs Human).png)
+
