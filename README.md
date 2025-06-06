@@ -68,5 +68,5 @@ Uncover how AI transforms developer performance with this complete data storytel
 
 ## 📸 Dashboard Preview
 
-![Developer Productivity Dashboard](./productivity_ai_vs_human.png)
+![Developer Productivity Dashboard](https://github.com/BananiIITM/Developer_Productivity/blob/main/Productivity%20(Ai%20vs%20Human).png)
 
